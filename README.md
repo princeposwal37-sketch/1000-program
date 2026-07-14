@@ -1,1 +1,1 @@
-# 1000-program
+# python 1000-program
